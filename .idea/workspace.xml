@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3bf9f8a-a393-45ab-bf34-1465adf85ee4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SpringAsyncApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/performanceasync/controller/SendController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/performanceasync/dto/Notice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/performanceasync/mapper/NoticeReadMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/performanceasync/service/LogSendServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/performanceasync/service/NoticeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/performanceasync/service/NoticeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/performanceasync/service/SendService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/NoticeReadMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-jsp/src/main/java/org/example/controller/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/java/org/example/SpringEhcacheApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/java/org/example/performancecache/PerformancecacheApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/java/org/example/performancecache/config/EhcacheConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/java/org/example/performancecache/controller/EhcacheController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/java/org/example/performancecache/controller/NoticeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/java/org/example/performancecache/dto/Notice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/java/org/example/performancecache/mapper/NoticeReadMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/java/org/example/performancecache/service/NoticeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/java/org/example/performancecache/service/NoticeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/resources/ehcache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-ehcache/src/main/resources/mybatis/mapper/NoticeReadMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annotation/src/main/java/Ex12_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../annotation/src/main/java/Ex12_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-health/src/main/java/com/example/health/test/TestServletConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-health/src/main/java/com/example/health/test/TestServletConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-jsp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-jsp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-jsp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-jsp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-jsp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-jsp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/HtmlCharacterEscapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/HtmlCharacterEscapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/XssExampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/XssExampleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/config/CustomFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/config/CustomFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/config/CustomInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/config/CustomInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/config/WebMvcConfig1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/config/WebMvcConfig1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/controller/XssRequestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/controller/XssRequestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/controller/dto/XssRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xss-example/src/main/java/org/example/controller/dto/XssRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xss-example/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../xss-example/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xss-example/src/test/java/org/example/controller/XssSpringBootTest0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xss-example/src/test/java/org/example/controller/XssSpringBootTest0.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2gjdrc6z3R5u5qx0G660KWHMLnW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/jaedeok/study/spring-boot/blog-code/spring-async/src/main/java/org/example/performanceasync",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.22988506",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jaedeok\study\spring-boot\blog-code\spring-async\src\main\java\org\example\performanceasync" />
+      <recent name="C:\Users\jaedeok\study\spring-boot\blog-code\spring-async\src\main\resources" />
+      <recent name="C:\Users\jaedeok\study\spring-boot\blog-code\spring-async\src\main\java\org\example\performance" />
+      <recent name="C:\Users\jaedeok\study\spring-boot\blog-code\spring-async\src\main\java" />
+      <recent name="C:\Users\jaedeok\study\spring-boot\blog-code\spring-async\src\main\java\org\example" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringAsyncApplication">
+    <configuration name="PerformanceasyncApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.performanceasync.PerformanceasyncApplication" />
+      <module name="spring-async.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAsyncApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SpringAsyncApplication" />
+      <module name="spring-async.main" />
+      <option name="VM_PARAMETERS" value="-Dmy.password=goqudejr!15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spring-async [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-async [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringAsyncApplication" />
+      <item itemvalue="Application.PerformanceasyncApplication" />
+      <item itemvalue="Gradle.spring-async [clean]" />
+      <item itemvalue="Gradle.spring-async [bootRun]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.spring-async [clean]" />
+        <item itemvalue="Application.PerformanceasyncApplication" />
+        <item itemvalue="Gradle.spring-async [bootRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3bf9f8a-a393-45ab-bf34-1465adf85ee4" name="Changes" comment="" />
+      <created>1716215121003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716215121003</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
